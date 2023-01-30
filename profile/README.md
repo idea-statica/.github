@@ -1,4 +1,4 @@
-## Welcome to Idea StatiCa Github
+## Welcome to IDEA StatiCa GitHub
 
 <!--
 
