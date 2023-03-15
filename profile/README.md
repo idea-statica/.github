@@ -1,4 +1,12 @@
-## Welcome to IDEA StatiCa GitHub
+## Welcome to the IDEA StatiCa GitHub
+
+IDEA StatiCa API **source code** and **examples** are now all available under the [ideastatica-public]( https://github.com/idea-statica/ideastatica-public) repository.
+
+For API related **issues**, **questions** and **discussions** please also use [ideastatica-public]( https://github.com/idea-statica/ideastatica-public). 
+
+**Getting started** information can be found on the [IDEA StatiCa API Wiki]( https://github.com/idea-statica/ideastatica-public/wiki).
+
+If you are a **third-party provider** of FEA or CAD software and are wanting to link with IDEA StatiCa, please contact us directly.
 
 <!--
 
